@@ -1,5 +1,5 @@
 
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Applying Filters to SQL Queries</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
